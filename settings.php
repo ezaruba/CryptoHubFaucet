@@ -23,7 +23,7 @@ define("FAUCET_MODE", "common");  // can be: "common" (without gaming), "game_bo
 define("FAUCET_GAME_BOXES_TEXT", "Choose 2 boxes to play. Only one of boxes contains maximum reward.");
 define("FAUCET_GAME_BOXES_BOX_IMG", "/imgs/box.png");
 define("FAUCET_GAME_BOXES_WIN_TEXT", "Yes! You have found the right box and got maximum reward!");
-define("FAUCET_GAME_BOXES_LOSE_TEXT", "Oh, no! You haven't find the right box. You are getting minimum reward 0.0001 XLR");
+define("FAUCET_GAME_BOXES_LOSE_TEXT", "Oh, no! You haven't found the right box. You are getting minimum reward 0.0001 XLR");
 
 
 // Cryptohub settings
