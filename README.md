@@ -1,5 +1,3 @@
-# CryptoHubFaucet
-
 You can use this universal scrypt to create a faucet using Crypothub. This scrypt has open source code.<br>
         Installing of the scrypt takes only 5 minutes.<br><br>
         <b>Main scrypt features:</b>
@@ -11,11 +9,7 @@ You can use this universal scrypt to create a faucet using Crypothub. This scryp
             <li>Solvemedia captcha</li>
             <li>Simple faucet + gaming modes (currently 1 mode)</li>
         </ul><br>
-
         <u>Please note:</u> The scrypt caches faucet balance for 60 seconds to lower requests to the API.
-        <br><br>
-
-
         <br><br>
         <b>Installation guide:</b>
         <ul>
