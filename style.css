@@ -1,0 +1,194 @@
+html,body{
+    margin:0;
+    padding:0;
+    font-family:verdana;
+}
+
+.top{
+    background:#af3030;
+    color:white;
+    font-size:22pt;
+    padding:20px;
+    margin-bottom:50px;
+    position:relative;
+    padding-left:180px;
+}
+
+.logo{
+   position:absolute;
+   left:110px;
+   top:40px;
+   width:50px;
+   height:50px;
+}
+
+.faucet_form{
+   width:600px;
+   margin:0 auto;   
+   
+}
+
+.banners_top{
+   height:140px;
+   margin:40px 0;
+}
+
+.banners_top div.banner{
+    text-align:center;
+    width:550px;
+    padding:20px;
+    display:inline-block;
+    margin:0 5%;
+}
+
+.banners_bot{
+   margin:240px 0 20px 0;
+   height:110px;  
+   padding:0 10%;   
+}
+
+.banners_bot div.banner{
+    width:22%;
+    margin:20px 1%;
+    text-align:center;
+    display:inline-block;
+}
+
+
+
+
+.faucet_form .fields span{
+    width:45%;
+    padding:0 1%;
+    display:inline-block;
+}
+
+.faucet_form .fields span.lft{
+   text-align:right;   
+}
+
+.faucet_form .fields input{
+   padding:5px;   
+}
+
+.faucet_form div{
+    padding:10px;
+}
+
+.faucet_form .fields{
+	padding:10px 0;   
+}
+
+.faucet_form .form_error{
+    color:red;
+    margin:10px;
+    padding:12px;
+    text-align:center;
+    background:#d2dfa8;
+    border-radius:3px;
+}
+
+.faucet_form .form_error2{
+    color:red;
+    margin:10px;
+    padding:12px;
+    text-align:center;
+    background:yellow;
+    border-radius:3px;
+}
+
+.faucet_form .waiting{
+    text-align:center;
+    background:url('/imgs/time.png') no-repeat;
+    padding:45px 0 0 50px;
+    height:130px;
+    font-size:17pt;
+}
+
+.game_boxes .box{
+    display:inline-block;
+    width:31.6%;
+    padding:0.5% 0.5%;
+    text-align:center;
+    border-bottom:3px solid white;
+    cursor:pointer;
+}
+
+.faucet_form .your_adr{
+   color:maroon;   
+}
+
+.faucet_form .your_adr a{
+	margin-left:20px;
+	color:maroon;
+}
+
+.game_boxes .box.sel{
+    border-bottom:3px solid yellow;
+    background:#d8d8d8;
+}
+
+.game_boxes .box input{
+    display:none;
+}
+
+.faucet_form .title{
+    font-size:18pt;
+}
+
+
+.faucet_form .submit,.faucet_form .done{
+     text-align:center;
+}
+
+.faucet_form .submit input,.faucet_form .done input{
+    border:1px solid #af3030;
+    color:#af3030;
+    background:#dce067;
+    padding:8px 11px;
+    border-radius:2px;
+    cursor:pointer;
+    font-size:15pt;
+}
+
+.faucet_form .balance{
+    color:#af3030;
+    text-align:center;
+    font-size:13.5pt;
+}
+
+#adcopy-puzzle-image,#adcopy-puzzle-image-image{
+    padding:0;
+}
+
+#adcopy-outer,#adcopy-outer table{
+    text-align:center !important;
+    margin-left:auto !important; 
+    margin-right:auto !important;
+}
+
+.adblock{
+    width:300px;
+    height:200px;
+    margin:-100px 0 0 -150px;
+    left:50%;
+    top:50%;
+    color:black;
+    font-size:30pt;
+    position:absolute;
+}
+
+footer{
+	padding:7px 15px;
+	background:#af3030;
+    color:white;
+    font-size:15pt;
+}
+
+footer a{
+	color:white;
+}
+
+footer .gentime{
+	float:right;
+}
