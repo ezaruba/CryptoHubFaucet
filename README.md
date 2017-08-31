@@ -14,7 +14,7 @@ You can use this universal scrypt to create a faucet using Crypothub. This scryp
         <b>Installation guide:</b>
         <ul>
             <li>Upload all data into host directory at your server.</li>
-	    <li>Make sure the folder "db-folder" os open to write/creating files to you web server</li>
+	    <li>Make sure your web server has permissions to write/creating files at the folder "db-folder"</li>
             <li>Edit settings.php file and set CRYPTOHUB_FAUCET_KEY, Solvemedia settings and faucet titles/texts.</li>
             <li>Edit template.php and add advertising banners.</li>
             <li>If needed change style.css to change design.</li>
